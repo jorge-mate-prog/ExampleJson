@@ -1,0 +1,29 @@
+[
+    {
+       "id":1,
+       "nombre":"Jorge",
+       "apellido":"Hernández",
+       "edad":51,
+       "afición":[
+        "correr","remar","leer"
+       ] 
+    },
+    {
+        "id":2,
+        "nombre":"Mario",
+        "apellido":"Martinez",
+        "edad":46,
+        "afición":[
+         "programar","pintar","dormir"
+        ] 
+     },
+     {
+        "id":3,
+        "nombre":"Lucia",
+        "apellido":"Suarez",
+        "edad":11,
+        "afición":[
+         "dibujar","pintar","salir"
+        ] 
+     }
+]
